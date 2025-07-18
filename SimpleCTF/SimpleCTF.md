@@ -76,7 +76,7 @@ Some Google-Fu and I found this CVE. It uses SQL Injection (sqli) to uncover log
 
 Now here is where I ran into some issues using the provided Python script. It was written for pre-Python3 so I had to make some tweaks. It's not pretty but it works, and I included it here.
 
-*Add link to script*
+https://github.com/h3r37ix/THM-Walkthroughs/blob/main/SimpleCTF/Python/cve.py
 
 ![SimpleCTF/img/Header.png](https://github.com/h3r37ix/THM-Walkthroughs/blob/main/SimpleCTF/img/cracked%20password.png)
 
